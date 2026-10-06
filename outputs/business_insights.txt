@@ -1,0 +1,59 @@
+
+CUSTOMER SEGMENTATION ANALYSIS
+==============================
+
+Total Customers:
+500
+
+Optimal Number of Clusters:
+2
+
+Silhouette Score:
+0.159
+
+
+KEY FINDINGS
+------------
+
+Highest Spending Segment:
+High-Value Customers
+
+Highest Purchase Frequency:
+High-Value Customers
+
+Least Recently Active Segment:
+Loyal Regular Customers
+
+
+BUSINESS RECOMMENDATIONS
+------------------------
+
+1. High-Value Customers
+Provide premium offers, loyalty rewards,
+exclusive products and early access.
+
+2. Loyal Regular Customers
+Use loyalty programs, membership benefits,
+bundles and repeat-purchase incentives.
+
+3. Potential Customers
+Use personalized promotions,
+cross-selling and product recommendations.
+
+4. Low-Engagement Customers
+Use re-engagement campaigns,
+limited-time offers and targeted discounts.
+
+
+METHODOLOGY
+-----------
+
+1. Data cleaning
+2. Feature selection
+3. Standardization
+4. Elbow Method
+5. Silhouette Score
+6. K-Means clustering
+7. PCA visualization
+8. Segment profiling
+9. Business recommendations

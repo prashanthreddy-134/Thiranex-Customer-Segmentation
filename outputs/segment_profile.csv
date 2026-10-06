@@ -1,0 +1,3 @@
+Cluster,AnnualIncome,PurchaseFrequency,AverageOrderValue,TotalSpend,RecencyDays,WebVisitsPerMonth,DiscountUsageCount,CustomerCount,CustomerPercentage,Segment
+1,64859.43,10.99,2188.69,23785.15,30.56,13.12,3.54,200,40.0,High-Value Customers
+0,63283.05,7.5,1584.74,10855.32,41.87,13.39,3.54,300,60.0,Loyal Regular Customers

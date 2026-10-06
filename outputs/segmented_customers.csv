@@ -1,0 +1,501 @@
+CustomerID,Age,Gender,AnnualIncome,PurchaseFrequency,AverageOrderValue,RecencyDays,WebVisitsPerMonth,DiscountUsageCount,PreferredChannel,City,TotalSpend,Cluster,Segment
+CUST1001,22,Male,96531,10,2317.22,63,13,3,Store,Pune,26518.27,1,High-Value Customers
+CUST1002,55,Female,67013,14,2380.04,32,11,2,Mobile App,Hyderabad,41090.39,1,High-Value Customers
+CUST1003,49,Female,77777,7,2004.73,19,14,4,Online,Hyderabad,16818.69,0,Loyal Regular Customers
+CUST1004,39,Female,63751,8,2535.43,32,9,5,Store,Mumbai,19723.83,1,High-Value Customers
+CUST1005,38,Male,61251,10,1922.25,11,16,3,Store,Hyderabad,10823.89,0,Loyal Regular Customers
+CUST1006,59,Male,47851,9,1930.3,17,13,6,Online,Chennai,18594.93,1,High-Value Customers
+CUST1007,22,Female,74467,17,1878.81,44,15,1,Mobile App,Mumbai,40394.33,1,High-Value Customers
+CUST1008,51,Male,46266,8,488.14,37,12,2,Mobile App,Bengaluru,4772.38,0,Loyal Regular Customers
+CUST1009,27,Male,79643,5,1747.74,101,10,4,Online,Bengaluru,9466.9,0,Loyal Regular Customers
+CUST1010,22,Male,88876,9,1365.64,14,7,4,Online,Mumbai,9659.18,0,Loyal Regular Customers
+CUST1011,43,Female,73064,10,1028.81,32,9,2,Online,Hyderabad,9315.31,0,Loyal Regular Customers
+CUST1012,64,Female,58703,12,2732.11,26,14,4,Online,Pune,44197.45,1,High-Value Customers
+CUST1013,53,Female,74987,11,2127.73,4,13,3,Store,Pune,17436.48,1,High-Value Customers
+CUST1014,54,Female,58209,10,1780.61,12,17,4,Mobile App,Pune,14127.16,0,Loyal Regular Customers
+CUST1015,52,Female,85582,4,1432.88,106,14,4,Mobile App,Pune,6703.93,0,Loyal Regular Customers
+CUST1016,55,Male,24709,7,1992.51,20,11,6,Online,Pune,12865.12,0,Loyal Regular Customers
+CUST1017,42,Female,57617,12,2444.43,6,10,3,Online,Hyderabad,23093.53,1,High-Value Customers
+CUST1018,24,Male,21202,6,1262.47,24,7,4,Online,Pune,9658.16,0,Loyal Regular Customers
+CUST1019,58,Male,32109,9,1796.86,49,12,4,Store,Hyderabad,17513.83,0,Loyal Regular Customers
+CUST1020,39,Female,95005,13,2364.24,73,9,3,Online,Chennai,28622.87,1,High-Value Customers
+CUST1021,42,Male,84694,9,541.6,39,10,2,Mobile App,Bengaluru,3869.11,0,Loyal Regular Customers
+CUST1022,35,Male,49171,7,1762.58,13,11,7,Mobile App,Pune,16885.04,0,Loyal Regular Customers
+CUST1023,26,Male,31945,9,1520.96,41,20,2,Online,Chennai,13628.39,0,Loyal Regular Customers
+CUST1024,62,Female,18000,7,1713.01,38,15,5,Store,Pune,15007.05,0,Loyal Regular Customers
+CUST1025,55,Male,53043,7,1473.94,92,13,2,Store,Hyderabad,11977.2,0,Loyal Regular Customers
+CUST1026,48,Male,118249,8,1889.46,37,18,5,Mobile App,Hyderabad,13698.4,0,Loyal Regular Customers
+CUST1027,37,Female,74567,9,3050.36,26,13,2,Store,Chennai,24918.5,1,High-Value Customers
+CUST1028,57,Male,52689,13,1589.45,9,14,6,Online,Pune,26042.15,1,High-Value Customers
+CUST1029,44,Female,75232,7,1989.61,29,14,4,Store,Chennai,17593.67,0,Loyal Regular Customers
+CUST1030,39,Female,30659,13,3096.59,13,14,2,Online,Mumbai,26655.5,1,High-Value Customers
+CUST1031,39,Female,58459,7,1442.49,7,9,4,Store,Hyderabad,11096.68,0,Loyal Regular Customers
+CUST1032,28,Male,67189,13,2979.54,83,10,4,Online,Mumbai,37888.9,1,High-Value Customers
+CUST1033,22,Male,63106,5,1803.46,18,13,3,Store,Mumbai,7340.1,0,Loyal Regular Customers
+CUST1034,44,Male,82398,6,2958.23,59,15,2,Mobile App,Pune,18585.63,1,High-Value Customers
+CUST1035,60,Female,72582,12,2287.63,55,11,4,Online,Bengaluru,20782.82,1,High-Value Customers
+CUST1036,21,Male,79703,12,1999.62,18,10,4,Online,Hyderabad,21980.74,1,High-Value Customers
+CUST1037,59,Male,49856,7,1757.34,16,12,3,Store,Bengaluru,10533.36,0,Loyal Regular Customers
+CUST1038,57,Male,84752,8,1394.37,43,8,5,Online,Chennai,10151.43,0,Loyal Regular Customers
+CUST1039,31,Female,100837,7,1849.26,3,9,3,Store,Mumbai,12778.27,0,Loyal Regular Customers
+CUST1040,48,Male,43657,11,2383.28,47,8,1,Store,Mumbai,21423.73,1,High-Value Customers
+CUST1041,25,Female,45471,8,1791.48,12,10,4,Online,Mumbai,18390.22,0,Loyal Regular Customers
+CUST1042,54,Male,94387,9,1594.2,9,10,2,Mobile App,Mumbai,15621.76,0,Loyal Regular Customers
+CUST1043,51,Male,60790,7,1636.99,11,8,3,Store,Pune,15160.41,0,Loyal Regular Customers
+CUST1044,35,Male,95884,16,2445.11,67,17,3,Store,Pune,37994.49,1,High-Value Customers
+CUST1045,21,Female,55264,6,2596.35,79,10,3,Online,Chennai,14039.26,0,Loyal Regular Customers
+CUST1046,64,Male,97011,7,1366.35,18,10,2,Online,Pune,12591.74,0,Loyal Regular Customers
+CUST1047,39,Male,67893,8,1365.42,39,12,4,Online,Bengaluru,9786.78,0,Loyal Regular Customers
+CUST1048,60,Female,70681,9,2046.58,180,14,4,Mobile App,Mumbai,17828.1,0,Loyal Regular Customers
+CUST1049,50,Female,99424,11,2792.9,8,15,5,Mobile App,Chennai,34703.72,1,High-Value Customers
+CUST1050,55,Female,57041,9,2544.89,29,14,4,Mobile App,Pune,17801.21,1,High-Value Customers
+CUST1051,54,Female,44295,10,986.3,9,10,3,Online,Chennai,11125.79,0,Loyal Regular Customers
+CUST1052,27,Male,55132,9,1628.35,97,15,2,Store,Bengaluru,16193.98,0,Loyal Regular Customers
+CUST1053,35,Female,74951,17,1195.11,4,12,5,Mobile App,Mumbai,24958.84,1,High-Value Customers
+CUST1054,40,Male,30553,9,1626.12,4,17,2,Store,Pune,16979.74,0,Loyal Regular Customers
+CUST1055,41,Female,79024,10,2842.87,19,11,2,Online,Bengaluru,35080.91,1,High-Value Customers
+CUST1056,20,Female,53147,7,875.31,6,8,5,Mobile App,Bengaluru,6005.39,0,Loyal Regular Customers
+CUST1057,44,Female,90252,10,747.74,15,11,4,Online,Mumbai,6316.3,0,Loyal Regular Customers
+CUST1058,25,Female,18000,8,1261.44,58,13,4,Online,Chennai,13924.25,0,Loyal Regular Customers
+CUST1059,53,Female,47696,15,1986.75,16,12,1,Mobile App,Chennai,21611.71,1,High-Value Customers
+CUST1060,50,Female,27898,8,2203.49,3,21,2,Store,Bengaluru,13101.56,0,Loyal Regular Customers
+CUST1061,62,Female,46823,14,2084.34,120,12,3,Online,Chennai,32149.12,1,High-Value Customers
+CUST1062,53,Male,70449,8,2564.2,7,18,4,Store,Chennai,26513.78,1,High-Value Customers
+CUST1063,35,Male,61057,9,653.99,28,17,3,Mobile App,Pune,6086.73,0,Loyal Regular Customers
+CUST1064,64,Male,59426,11,2572.42,28,15,1,Online,Hyderabad,33386.47,1,High-Value Customers
+CUST1065,37,Female,61498,7,1597.14,17,13,2,Mobile App,Hyderabad,7163.63,0,Loyal Regular Customers
+CUST1066,33,Male,69475,10,2275.47,2,17,4,Online,Bengaluru,20708.64,1,High-Value Customers
+CUST1067,61,Male,42812,10,939.77,22,11,4,Online,Chennai,6227.76,0,Loyal Regular Customers
+CUST1068,35,Male,80551,9,1803.22,12,12,1,Online,Mumbai,18508.73,1,High-Value Customers
+CUST1069,21,Female,79579,7,1953.58,40,8,1,Store,Hyderabad,9866.53,0,Loyal Regular Customers
+CUST1070,40,Female,73471,9,2551.24,4,18,2,Online,Mumbai,17679.92,1,High-Value Customers
+CUST1071,56,Female,77244,15,769.58,48,12,1,Online,Pune,12611.78,0,Loyal Regular Customers
+CUST1072,27,Male,71521,9,1819.99,39,18,4,Store,Bengaluru,19510.58,1,High-Value Customers
+CUST1073,40,Male,109772,14,1094.6,40,17,2,Store,Chennai,14885.9,1,High-Value Customers
+CUST1074,24,Male,63084,14,2128.57,40,18,4,Store,Mumbai,32858.38,1,High-Value Customers
+CUST1075,50,Male,58244,8,2305.19,96,13,5,Mobile App,Bengaluru,20226.69,1,High-Value Customers
+CUST1076,40,Male,48422,10,2636.66,6,17,6,Online,Bengaluru,25344.19,1,High-Value Customers
+CUST1077,33,Female,42290,9,1452.23,5,11,6,Online,Hyderabad,10494.65,0,Loyal Regular Customers
+CUST1078,28,Female,37622,13,2402.7,5,8,3,Store,Bengaluru,34411.1,1,High-Value Customers
+CUST1079,45,Female,45446,5,2684.59,27,14,1,Store,Hyderabad,14904.27,0,Loyal Regular Customers
+CUST1080,50,Male,63445,12,731.89,6,8,3,Online,Bengaluru,10196.03,0,Loyal Regular Customers
+CUST1081,63,Male,72354,7,2198.02,28,13,4,Online,Pune,16250.41,0,Loyal Regular Customers
+CUST1082,38,Female,66125,11,2423.03,30,13,1,Online,Chennai,21047.34,1,High-Value Customers
+CUST1083,25,Male,48158,11,1631.83,6,9,3,Online,Hyderabad,20180.64,1,High-Value Customers
+CUST1084,57,Male,84804,7,1013.0,58,17,3,Mobile App,Mumbai,7089.24,0,Loyal Regular Customers
+CUST1085,48,Male,81267,13,2412.92,17,14,2,Store,Bengaluru,28642.31,1,High-Value Customers
+CUST1086,51,Female,61488,9,1020.32,41,17,4,Online,Chennai,8695.87,0,Loyal Regular Customers
+CUST1087,22,Female,50636,2,1684.07,41,12,4,Store,Mumbai,2949.66,0,Loyal Regular Customers
+CUST1088,32,Male,77065,7,1773.92,8,12,4,Store,Pune,14404.13,0,Loyal Regular Customers
+CUST1089,54,Female,69135,13,2265.1,80,8,6,Online,Hyderabad,21929.82,1,High-Value Customers
+CUST1090,57,Female,33141,13,1392.69,13,12,2,Online,Chennai,14867.3,1,High-Value Customers
+CUST1091,38,Female,63504,14,1355.02,114,10,2,Store,Mumbai,17847.64,1,High-Value Customers
+CUST1092,56,Female,70765,8,1864.3,5,14,3,Online,Mumbai,19246.66,1,High-Value Customers
+CUST1093,58,Male,45207,5,2454.15,3,13,4,Store,Bengaluru,14599.38,0,Loyal Regular Customers
+CUST1094,36,Female,69177,4,3286.84,9,16,4,Store,Pune,9264.27,0,Loyal Regular Customers
+CUST1095,61,Male,32994,9,820.14,23,25,1,Mobile App,Hyderabad,9176.7,0,Loyal Regular Customers
+CUST1096,31,Female,94396,11,2004.97,28,14,6,Mobile App,Hyderabad,27411.65,1,High-Value Customers
+CUST1097,29,Female,92455,7,1093.75,38,11,3,Mobile App,Bengaluru,6038.32,0,Loyal Regular Customers
+CUST1098,50,Female,59445,11,2462.23,33,11,3,Store,Bengaluru,14791.88,1,High-Value Customers
+CUST1099,48,Female,72996,9,1189.95,15,8,4,Online,Hyderabad,10570.33,0,Loyal Regular Customers
+CUST1100,24,Female,18000,9,1361.48,45,13,6,Store,Bengaluru,14728.94,0,Loyal Regular Customers
+CUST1101,57,Female,39560,11,1416.97,4,15,4,Mobile App,Mumbai,20051.12,1,High-Value Customers
+CUST1102,27,Female,58537,11,1750.47,3,10,6,Mobile App,Chennai,16236.94,1,High-Value Customers
+CUST1103,56,Female,41413,11,2010.08,7,19,2,Mobile App,Hyderabad,29083.68,1,High-Value Customers
+CUST1104,18,Male,80717,9,2114.41,7,18,4,Online,Chennai,11398.25,0,Loyal Regular Customers
+CUST1105,56,Female,108941,9,1796.25,19,10,5,Store,Mumbai,15095.25,0,Loyal Regular Customers
+CUST1106,55,Female,39114,6,935.57,34,15,3,Mobile App,Bengaluru,5191.86,0,Loyal Regular Customers
+CUST1107,55,Male,46576,7,2273.06,134,14,3,Store,Hyderabad,19211.78,0,Loyal Regular Customers
+CUST1108,49,Female,70180,6,1765.58,11,13,7,Store,Pune,13069.12,0,Loyal Regular Customers
+CUST1109,40,Female,100445,7,2555.13,34,12,2,Store,Bengaluru,20958.0,1,High-Value Customers
+CUST1110,51,Female,38108,11,1339.97,7,14,3,Store,Pune,11156.47,0,Loyal Regular Customers
+CUST1111,31,Female,70479,6,758.52,4,12,5,Online,Pune,5257.78,0,Loyal Regular Customers
+CUST1112,55,Male,105069,8,1777.88,3,13,5,Online,Hyderabad,15526.26,0,Loyal Regular Customers
+CUST1113,44,Female,28661,10,2642.37,47,15,7,Mobile App,Hyderabad,18474.86,1,High-Value Customers
+CUST1114,40,Male,36816,10,1904.61,140,12,5,Mobile App,Hyderabad,11959.76,0,Loyal Regular Customers
+CUST1115,42,Female,55681,8,1670.21,97,13,1,Mobile App,Chennai,15858.15,0,Loyal Regular Customers
+CUST1116,45,Female,53547,9,1234.27,22,15,6,Online,Hyderabad,10748.32,0,Loyal Regular Customers
+CUST1117,19,Male,82877,10,2942.55,4,17,3,Online,Mumbai,22618.42,1,High-Value Customers
+CUST1118,24,Male,70317,8,1130.76,8,11,4,Online,Hyderabad,8707.11,0,Loyal Regular Customers
+CUST1119,29,Male,25951,5,1328.49,58,14,3,Mobile App,Pune,7077.71,0,Loyal Regular Customers
+CUST1120,23,Male,76339,5,2170.52,11,14,5,Store,Pune,10690.75,0,Loyal Regular Customers
+CUST1121,39,Male,52294,5,593.59,33,9,4,Mobile App,Chennai,2138.83,0,Loyal Regular Customers
+CUST1122,50,Male,93038,17,2628.48,15,9,5,Online,Chennai,59849.97,1,High-Value Customers
+CUST1123,49,Male,51193,10,2205.73,27,15,2,Store,Bengaluru,26044.36,1,High-Value Customers
+CUST1124,40,Male,50994,6,2384.5,59,12,2,Mobile App,Bengaluru,13443.32,0,Loyal Regular Customers
+CUST1125,59,Female,76905,11,2162.78,22,16,3,Online,Chennai,22526.89,1,High-Value Customers
+CUST1126,45,Male,81784,12,1695.27,173,21,0,Mobile App,Chennai,21659.6,1,High-Value Customers
+CUST1127,21,Male,74858,8,1108.95,18,16,4,Store,Hyderabad,7067.72,0,Loyal Regular Customers
+CUST1128,54,Male,27917,8,1708.95,18,11,3,Online,Bengaluru,14465.67,0,Loyal Regular Customers
+CUST1129,45,Female,76837,8,1166.1,25,8,4,Online,Pune,7094.26,0,Loyal Regular Customers
+CUST1130,48,Male,42245,11,2116.0,4,9,1,Mobile App,Chennai,22980.48,1,High-Value Customers
+CUST1131,45,Female,70176,8,2324.41,59,9,2,Store,Chennai,14683.9,0,Loyal Regular Customers
+CUST1132,44,Male,33678,10,2759.93,19,20,4,Mobile App,Chennai,22044.8,1,High-Value Customers
+CUST1133,22,Male,74819,7,2041.65,44,14,3,Mobile App,Chennai,18525.14,0,Loyal Regular Customers
+CUST1134,44,Male,47255,13,2400.97,29,17,2,Online,Mumbai,31545.36,1,High-Value Customers
+CUST1135,56,Male,36782,10,1606.86,33,16,2,Mobile App,Mumbai,16668.49,0,Loyal Regular Customers
+CUST1136,32,Female,80704,12,1489.12,36,14,2,Mobile App,Chennai,11399.84,0,Loyal Regular Customers
+CUST1137,46,Male,70316,8,2107.89,12,9,4,Online,Bengaluru,15051.0,0,Loyal Regular Customers
+CUST1138,19,Male,51493,8,1548.79,58,18,2,Mobile App,Pune,13418.94,0,Loyal Regular Customers
+CUST1139,34,Female,96926,2,1974.97,2,11,3,Online,Hyderabad,4087.97,0,Loyal Regular Customers
+CUST1140,38,Female,55306,13,1110.23,5,7,4,Online,Bengaluru,8836.95,0,Loyal Regular Customers
+CUST1141,65,Female,65706,9,1226.94,49,12,3,Online,Bengaluru,11454.18,0,Loyal Regular Customers
+CUST1142,28,Female,70916,6,2213.02,98,12,4,Mobile App,Mumbai,14154.22,0,Loyal Regular Customers
+CUST1143,31,Female,51367,11,2376.35,12,12,2,Online,Hyderabad,32180.17,1,High-Value Customers
+CUST1144,37,Male,75365,6,1159.32,7,11,6,Online,Bengaluru,6135.53,0,Loyal Regular Customers
+CUST1145,65,Female,53264,6,2235.9,25,11,3,Store,Pune,8001.32,0,Loyal Regular Customers
+CUST1146,58,Male,55944,10,1453.72,7,8,3,Online,Hyderabad,11928.95,0,Loyal Regular Customers
+CUST1147,19,Male,94978,9,1810.73,3,18,5,Mobile App,Pune,13078.46,0,Loyal Regular Customers
+CUST1148,29,Female,42107,7,2721.01,26,11,4,Mobile App,Pune,21572.86,1,High-Value Customers
+CUST1149,57,Female,18000,8,2324.87,6,11,4,Online,Bengaluru,9503.83,0,Loyal Regular Customers
+CUST1150,20,Female,100441,6,2317.32,35,14,5,Online,Mumbai,12781.82,0,Loyal Regular Customers
+CUST1151,59,Male,121085,7,3040.71,18,14,1,Mobile App,Mumbai,26747.61,1,High-Value Customers
+CUST1152,31,Female,56084,11,1342.48,95,11,5,Online,Bengaluru,14786.45,0,Loyal Regular Customers
+CUST1153,62,Male,22390,10,1159.18,31,13,4,Online,Hyderabad,13461.99,0,Loyal Regular Customers
+CUST1154,32,Female,58169,6,1330.62,45,11,3,Mobile App,Chennai,5624.34,0,Loyal Regular Customers
+CUST1155,38,Female,58703,15,1634.57,24,8,2,Mobile App,Bengaluru,17448.43,1,High-Value Customers
+CUST1156,49,Female,60822,8,300.0,38,15,2,Store,Mumbai,3020.89,0,Loyal Regular Customers
+CUST1157,24,Female,40505,12,1665.17,60,21,6,Store,Hyderabad,20346.09,1,High-Value Customers
+CUST1158,44,Female,77750,11,1446.03,26,10,2,Mobile App,Pune,16202.02,1,High-Value Customers
+CUST1159,42,Male,76539,8,2309.44,26,14,2,Store,Pune,14757.0,0,Loyal Regular Customers
+CUST1160,55,Male,32123,10,2029.07,8,11,4,Store,Mumbai,20658.79,1,High-Value Customers
+CUST1161,65,Male,80382,9,1409.55,3,10,4,Mobile App,Bengaluru,10069.23,0,Loyal Regular Customers
+CUST1162,49,Female,110159,9,2183.47,13,20,2,Store,Bengaluru,23849.45,1,High-Value Customers
+CUST1163,37,Male,68783,9,2270.12,28,13,5,Store,Bengaluru,30462.93,1,High-Value Customers
+CUST1164,37,Male,57579,7,1300.45,53,11,3,Online,Chennai,9896.12,0,Loyal Regular Customers
+CUST1165,38,Female,61876,12,1479.53,26,12,5,Store,Mumbai,15725.21,1,High-Value Customers
+CUST1166,57,Female,78536,8,353.51,100,14,2,Store,Bengaluru,1538.31,0,Loyal Regular Customers
+CUST1167,33,Female,26925,8,1091.07,36,18,1,Online,Mumbai,6082.03,0,Loyal Regular Customers
+CUST1168,26,Female,68617,8,1317.39,64,15,4,Online,Bengaluru,13488.76,0,Loyal Regular Customers
+CUST1169,34,Female,56410,9,1848.21,180,14,2,Mobile App,Hyderabad,13552.39,0,Loyal Regular Customers
+CUST1170,19,Male,105652,8,1185.5,84,16,4,Online,Chennai,8850.94,0,Loyal Regular Customers
+CUST1171,23,Female,61168,8,1466.26,107,13,1,Online,Pune,13113.74,0,Loyal Regular Customers
+CUST1172,22,Female,101694,4,1003.54,21,9,5,Online,Mumbai,5085.19,0,Loyal Regular Customers
+CUST1173,55,Female,40718,10,1911.22,8,19,5,Online,Chennai,18425.58,1,High-Value Customers
+CUST1174,52,Male,77920,9,2076.71,17,24,5,Mobile App,Bengaluru,17328.98,1,High-Value Customers
+CUST1175,51,Female,72027,11,2061.54,5,15,6,Online,Hyderabad,22969.29,1,High-Value Customers
+CUST1176,40,Female,45881,14,1808.03,6,15,5,Online,Mumbai,22452.75,1,High-Value Customers
+CUST1177,52,Female,68903,12,798.3,3,14,3,Mobile App,Bengaluru,8590.15,0,Loyal Regular Customers
+CUST1178,25,Male,91675,16,1397.03,2,10,3,Online,Mumbai,24009.66,1,High-Value Customers
+CUST1179,61,Female,57877,9,1535.25,83,13,5,Online,Mumbai,14278.09,0,Loyal Regular Customers
+CUST1180,42,Female,27777,13,1537.86,124,14,6,Mobile App,Mumbai,27662.96,1,High-Value Customers
+CUST1181,63,Female,64614,10,1848.74,41,16,6,Store,Hyderabad,19947.77,1,High-Value Customers
+CUST1182,25,Male,45147,10,2726.6,32,15,5,Mobile App,Hyderabad,32915.68,1,High-Value Customers
+CUST1183,41,Female,57468,11,2327.86,26,18,2,Mobile App,Bengaluru,20668.73,1,High-Value Customers
+CUST1184,51,Female,63205,7,1158.11,129,23,6,Mobile App,Hyderabad,8873.09,0,Loyal Regular Customers
+CUST1185,41,Male,27476,10,2240.96,16,14,6,Online,Chennai,19493.29,1,High-Value Customers
+CUST1186,39,Female,29456,5,2216.2,55,13,4,Mobile App,Bengaluru,11869.76,0,Loyal Regular Customers
+CUST1187,25,Male,75605,9,1276.06,12,13,5,Store,Chennai,12907.85,0,Loyal Regular Customers
+CUST1188,36,Female,53500,7,2351.76,12,19,4,Online,Hyderabad,16610.09,0,Loyal Regular Customers
+CUST1189,29,Male,18000,13,1695.76,45,9,6,Mobile App,Chennai,31597.34,1,High-Value Customers
+CUST1190,32,Female,82267,11,883.53,53,12,2,Online,Hyderabad,12216.92,0,Loyal Regular Customers
+CUST1191,50,Female,70992,8,2095.88,6,14,5,Mobile App,Pune,20320.05,1,High-Value Customers
+CUST1192,48,Female,49295,10,1941.03,40,9,1,Store,Hyderabad,22080.6,1,High-Value Customers
+CUST1193,47,Female,36030,13,1652.01,37,14,3,Store,Pune,28292.76,1,High-Value Customers
+CUST1194,35,Female,83388,6,1775.66,10,11,2,Online,Bengaluru,7898.27,0,Loyal Regular Customers
+CUST1195,64,Male,72686,6,1332.59,92,21,3,Mobile App,Bengaluru,9967.65,0,Loyal Regular Customers
+CUST1196,22,Male,117417,11,2196.58,26,22,2,Store,Bengaluru,19851.23,1,High-Value Customers
+CUST1197,34,Female,74244,12,1771.76,17,16,6,Online,Chennai,19101.39,1,High-Value Customers
+CUST1198,23,Female,73529,8,1908.19,16,14,4,Online,Pune,16808.11,0,Loyal Regular Customers
+CUST1199,34,Male,61328,14,2032.14,17,6,5,Mobile App,Bengaluru,34765.27,1,High-Value Customers
+CUST1200,64,Male,82969,8,1049.52,4,6,3,Online,Mumbai,6652.75,0,Loyal Regular Customers
+CUST1201,35,Female,78752,5,1218.72,51,13,1,Store,Mumbai,5531.42,0,Loyal Regular Customers
+CUST1202,61,Female,92538,5,363.54,106,12,5,Store,Hyderabad,1849.61,0,Loyal Regular Customers
+CUST1203,41,Male,53531,6,2167.08,77,18,4,Online,Hyderabad,12566.3,0,Loyal Regular Customers
+CUST1204,51,Male,55421,4,1012.06,18,13,4,Store,Pune,4670.56,0,Loyal Regular Customers
+CUST1205,39,Male,54460,10,1886.17,46,12,5,Online,Mumbai,30527.04,1,High-Value Customers
+CUST1206,30,Female,82398,11,2041.14,16,6,5,Mobile App,Hyderabad,24147.21,1,High-Value Customers
+CUST1207,54,Male,97964,8,2191.53,8,13,4,Mobile App,Pune,15212.1,0,Loyal Regular Customers
+CUST1208,64,Female,54906,6,1017.39,18,25,6,Online,Chennai,4679.76,0,Loyal Regular Customers
+CUST1209,30,Male,55655,13,1757.64,18,15,4,Store,Bengaluru,21511.59,1,High-Value Customers
+CUST1210,55,Male,71910,6,2885.68,9,23,4,Store,Pune,14383.76,0,Loyal Regular Customers
+CUST1211,30,Female,59593,11,2914.3,20,13,3,Mobile App,Pune,34755.21,1,High-Value Customers
+CUST1212,52,Female,85945,4,2441.76,23,13,0,Online,Chennai,10561.72,0,Loyal Regular Customers
+CUST1213,55,Female,18000,10,2019.37,12,10,2,Store,Mumbai,18510.15,1,High-Value Customers
+CUST1214,39,Female,46812,13,1146.68,4,18,5,Mobile App,Hyderabad,20232.93,1,High-Value Customers
+CUST1215,53,Female,47787,5,2267.1,11,10,4,Online,Pune,9834.9,0,Loyal Regular Customers
+CUST1216,31,Female,18000,11,1697.29,74,8,3,Store,Hyderabad,18268.83,1,High-Value Customers
+CUST1217,21,Female,43800,9,2164.34,31,14,4,Online,Hyderabad,21720.11,1,High-Value Customers
+CUST1218,22,Male,44867,8,1388.65,15,19,2,Store,Chennai,12893.0,0,Loyal Regular Customers
+CUST1219,39,Male,60576,10,1687.59,12,9,3,Online,Hyderabad,20756.75,1,High-Value Customers
+CUST1220,61,Female,89485,8,1906.7,38,22,6,Mobile App,Mumbai,16430.1,0,Loyal Regular Customers
+CUST1221,24,Male,59609,6,1960.08,9,11,3,Online,Mumbai,13985.14,0,Loyal Regular Customers
+CUST1222,39,Female,42322,13,2120.92,11,10,2,Online,Chennai,24271.06,1,High-Value Customers
+CUST1223,51,Female,63747,10,1423.52,64,12,3,Mobile App,Mumbai,16587.63,0,Loyal Regular Customers
+CUST1224,27,Male,88082,9,926.87,22,12,3,Mobile App,Chennai,9700.31,0,Loyal Regular Customers
+CUST1225,52,Female,43529,12,2856.11,8,9,4,Store,Pune,43606.62,1,High-Value Customers
+CUST1226,32,Male,44967,13,3418.02,3,12,6,Store,Hyderabad,31089.83,1,High-Value Customers
+CUST1227,56,Female,77288,6,2090.82,120,6,4,Online,Mumbai,10496.42,0,Loyal Regular Customers
+CUST1228,45,Male,60126,13,939.41,2,20,4,Store,Chennai,14021.77,0,Loyal Regular Customers
+CUST1229,44,Male,79245,7,1297.42,27,15,3,Online,Pune,4747.62,0,Loyal Regular Customers
+CUST1230,26,Female,64700,7,2130.93,38,10,4,Online,Hyderabad,16237.53,0,Loyal Regular Customers
+CUST1231,40,Female,80437,9,2671.73,29,13,3,Mobile App,Bengaluru,28632.62,1,High-Value Customers
+CUST1232,59,Male,42228,10,1011.62,18,13,0,Store,Pune,9066.67,0,Loyal Regular Customers
+CUST1233,18,Female,64734,3,1719.18,67,10,5,Online,Pune,4758.17,0,Loyal Regular Customers
+CUST1234,54,Female,60365,6,1927.36,74,10,3,Online,Mumbai,9328.29,0,Loyal Regular Customers
+CUST1235,41,Male,38250,10,2361.98,19,11,3,Mobile App,Chennai,21402.41,1,High-Value Customers
+CUST1236,52,Female,30603,9,1576.66,26,14,1,Online,Chennai,12931.83,0,Loyal Regular Customers
+CUST1237,49,Female,80086,6,783.52,26,16,5,Online,Mumbai,4123.3,0,Loyal Regular Customers
+CUST1238,38,Male,57279,5,2203.78,39,10,2,Online,Mumbai,9555.79,0,Loyal Regular Customers
+CUST1239,32,Female,42510,5,2531.12,9,11,3,Online,Hyderabad,12038.25,0,Loyal Regular Customers
+CUST1240,48,Female,62884,12,1746.32,4,10,5,Online,Bengaluru,19887.96,1,High-Value Customers
+CUST1241,24,Female,89816,4,2063.41,20,6,3,Mobile App,Bengaluru,11037.95,0,Loyal Regular Customers
+CUST1242,46,Female,18000,7,1491.58,6,14,6,Online,Hyderabad,9700.23,0,Loyal Regular Customers
+CUST1243,22,Female,32074,5,1250.25,23,14,2,Store,Mumbai,6638.5,0,Loyal Regular Customers
+CUST1244,49,Male,44696,11,2467.18,55,13,4,Store,Chennai,24320.9,1,High-Value Customers
+CUST1245,48,Female,97146,5,2051.87,22,18,7,Store,Mumbai,9170.55,0,Loyal Regular Customers
+CUST1246,22,Male,71217,10,2118.74,27,15,4,Store,Chennai,14687.39,1,High-Value Customers
+CUST1247,54,Female,81881,9,2776.37,32,15,4,Store,Hyderabad,17919.77,1,High-Value Customers
+CUST1248,37,Male,39916,6,1114.35,47,18,3,Store,Mumbai,5233.48,0,Loyal Regular Customers
+CUST1249,55,Male,40370,7,1441.18,30,12,4,Store,Mumbai,10421.83,0,Loyal Regular Customers
+CUST1250,19,Male,74852,12,1902.66,20,11,6,Mobile App,Pune,27254.72,1,High-Value Customers
+CUST1251,26,Female,66282,5,1433.2,19,15,4,Store,Pune,4861.42,0,Loyal Regular Customers
+CUST1252,41,Male,77072,10,2309.04,9,12,6,Mobile App,Hyderabad,20808.29,1,High-Value Customers
+CUST1253,27,Male,60871,10,1678.19,20,15,4,Online,Mumbai,12652.88,0,Loyal Regular Customers
+CUST1254,33,Female,71119,3,1154.85,49,10,4,Store,Hyderabad,3299.74,0,Loyal Regular Customers
+CUST1255,49,Female,68479,8,1842.75,18,9,3,Store,Pune,17596.62,0,Loyal Regular Customers
+CUST1256,24,Male,82111,5,1910.72,16,15,4,Online,Mumbai,8785.12,0,Loyal Regular Customers
+CUST1257,50,Female,82754,12,2407.54,28,15,5,Mobile App,Pune,28643.38,1,High-Value Customers
+CUST1258,22,Male,29363,10,2055.54,8,14,4,Online,Hyderabad,25939.7,1,High-Value Customers
+CUST1259,26,Male,18000,8,2099.75,5,14,2,Online,Bengaluru,18182.53,1,High-Value Customers
+CUST1260,46,Female,87038,5,2008.19,43,21,4,Mobile App,Bengaluru,8667.18,0,Loyal Regular Customers
+CUST1261,56,Male,91130,12,1677.66,13,9,5,Online,Chennai,20707.79,1,High-Value Customers
+CUST1262,26,Female,42546,6,1334.46,12,12,6,Online,Pune,6814.08,0,Loyal Regular Customers
+CUST1263,32,Female,24084,7,1987.74,67,12,2,Online,Mumbai,14967.3,0,Loyal Regular Customers
+CUST1264,62,Female,67179,13,1583.47,78,9,2,Mobile App,Pune,22494.61,1,High-Value Customers
+CUST1265,65,Male,85478,7,2898.38,24,13,3,Store,Chennai,15295.85,1,High-Value Customers
+CUST1266,45,Female,104547,11,2672.42,33,15,2,Store,Pune,30323.4,1,High-Value Customers
+CUST1267,39,Female,76359,7,2211.35,108,11,7,Mobile App,Pune,15151.86,0,Loyal Regular Customers
+CUST1268,34,Male,56822,11,2046.0,18,12,3,Store,Hyderabad,24712.53,1,High-Value Customers
+CUST1269,47,Male,45351,9,1742.83,64,11,4,Mobile App,Pune,18032.68,0,Loyal Regular Customers
+CUST1270,46,Male,65252,7,980.27,43,12,2,Mobile App,Bengaluru,7451.61,0,Loyal Regular Customers
+CUST1271,32,Female,58416,7,1659.49,96,11,3,Online,Chennai,10982.47,0,Loyal Regular Customers
+CUST1272,19,Female,42669,8,1865.91,10,15,7,Mobile App,Chennai,17435.05,0,Loyal Regular Customers
+CUST1273,25,Male,110073,7,1949.15,53,10,3,Store,Hyderabad,11499.87,0,Loyal Regular Customers
+CUST1274,64,Female,104274,15,2105.2,7,13,0,Online,Pune,24072.1,1,High-Value Customers
+CUST1275,38,Female,89993,9,2398.86,53,21,2,Online,Mumbai,9172.37,0,Loyal Regular Customers
+CUST1276,41,Female,44741,11,1350.1,14,15,7,Store,Bengaluru,14663.6,0,Loyal Regular Customers
+CUST1277,40,Male,83810,18,1356.0,4,11,7,Online,Bengaluru,20798.59,1,High-Value Customers
+CUST1278,55,Male,79072,7,2743.06,57,12,2,Store,Bengaluru,20576.16,1,High-Value Customers
+CUST1279,21,Male,74736,4,2301.14,4,14,4,Online,Hyderabad,5938.59,0,Loyal Regular Customers
+CUST1280,21,Female,92493,8,1546.0,60,16,1,Store,Bengaluru,10927.23,0,Loyal Regular Customers
+CUST1281,31,Female,78978,12,1730.31,9,14,4,Online,Hyderabad,22521.34,1,High-Value Customers
+CUST1282,41,Female,81280,14,1733.24,28,15,2,Mobile App,Mumbai,19767.28,1,High-Value Customers
+CUST1283,50,Male,79012,10,1820.52,3,9,5,Online,Pune,19546.31,1,High-Value Customers
+CUST1284,41,Male,72497,12,2107.24,4,9,6,Online,Mumbai,22751.51,1,High-Value Customers
+CUST1285,39,Male,25761,7,3447.75,11,8,2,Online,Chennai,23991.73,1,High-Value Customers
+CUST1286,63,Female,66840,11,1923.34,16,11,3,Store,Mumbai,23423.23,1,High-Value Customers
+CUST1287,25,Male,52764,7,2230.69,8,10,2,Store,Pune,18292.83,1,High-Value Customers
+CUST1288,45,Female,36843,12,703.79,6,12,3,Store,Bengaluru,8586.09,0,Loyal Regular Customers
+CUST1289,44,Female,102000,11,1484.82,7,16,1,Online,Pune,13939.88,0,Loyal Regular Customers
+CUST1290,40,Male,103038,8,2598.73,23,14,3,Mobile App,Mumbai,19075.78,1,High-Value Customers
+CUST1291,56,Male,94903,8,2061.51,4,17,7,Store,Hyderabad,18382.93,1,High-Value Customers
+CUST1292,30,Male,70615,5,300.0,78,11,1,Online,Chennai,1224.26,0,Loyal Regular Customers
+CUST1293,63,Female,94714,9,2238.12,79,17,5,Mobile App,Chennai,19497.45,1,High-Value Customers
+CUST1294,33,Female,65265,8,3046.81,4,14,1,Store,Bengaluru,22681.45,1,High-Value Customers
+CUST1295,44,Male,69462,8,502.66,41,13,4,Store,Hyderabad,3946.46,0,Loyal Regular Customers
+CUST1296,42,Male,40944,8,2787.6,38,14,3,Online,Hyderabad,18249.39,1,High-Value Customers
+CUST1297,58,Female,73734,7,300.0,27,18,6,Online,Bengaluru,1399.97,0,Loyal Regular Customers
+CUST1298,39,Male,66328,5,2409.7,11,17,2,Store,Chennai,13177.85,0,Loyal Regular Customers
+CUST1299,31,Male,36342,8,1794.38,27,6,2,Online,Chennai,16846.27,0,Loyal Regular Customers
+CUST1300,19,Male,63874,24,300.0,62,11,4,Online,Hyderabad,4877.34,1,High-Value Customers
+CUST1301,35,Male,63246,10,2089.99,13,19,4,Mobile App,Bengaluru,22287.79,1,High-Value Customers
+CUST1302,57,Male,104546,7,2548.05,51,10,4,Store,Pune,21313.96,1,High-Value Customers
+CUST1303,18,Female,84673,9,2036.53,21,16,1,Online,Mumbai,20294.79,1,High-Value Customers
+CUST1304,61,Female,65252,6,2180.14,71,15,2,Online,Chennai,12099.77,0,Loyal Regular Customers
+CUST1305,44,Female,70473,15,1532.41,32,7,5,Store,Mumbai,19082.43,1,High-Value Customers
+CUST1306,24,Female,65973,11,590.1,56,8,4,Online,Hyderabad,6585.71,0,Loyal Regular Customers
+CUST1307,32,Female,60536,7,2249.71,96,9,4,Online,Hyderabad,16450.35,0,Loyal Regular Customers
+CUST1308,44,Male,41187,4,2937.34,20,9,3,Online,Mumbai,11951.98,0,Loyal Regular Customers
+CUST1309,33,Male,61677,5,2534.23,37,14,2,Store,Mumbai,12260.3,0,Loyal Regular Customers
+CUST1310,23,Female,48586,9,507.88,112,13,6,Store,Mumbai,3680.15,0,Loyal Regular Customers
+CUST1311,49,Male,37493,10,815.32,176,12,4,Online,Chennai,8773.53,0,Loyal Regular Customers
+CUST1312,50,Female,76247,11,1250.12,28,16,2,Online,Bengaluru,14916.8,0,Loyal Regular Customers
+CUST1313,23,Female,73608,13,764.57,91,12,6,Store,Mumbai,10298.7,0,Loyal Regular Customers
+CUST1314,31,Male,25692,9,1828.72,16,11,4,Store,Mumbai,16787.3,0,Loyal Regular Customers
+CUST1315,29,Female,62301,8,2055.72,18,14,3,Store,Chennai,21416.74,1,High-Value Customers
+CUST1316,49,Female,86905,6,870.34,88,23,3,Online,Hyderabad,4635.14,0,Loyal Regular Customers
+CUST1317,53,Male,88303,5,2305.13,33,11,4,Store,Pune,14184.14,0,Loyal Regular Customers
+CUST1318,52,Male,87568,12,2190.72,58,19,3,Mobile App,Hyderabad,22815.27,1,High-Value Customers
+CUST1319,63,Female,65856,9,1443.7,16,12,4,Store,Hyderabad,15586.91,0,Loyal Regular Customers
+CUST1320,54,Female,46409,14,1687.86,53,12,4,Online,Mumbai,28876.05,1,High-Value Customers
+CUST1321,33,Male,41159,11,532.63,62,18,2,Store,Chennai,5549.88,0,Loyal Regular Customers
+CUST1322,23,Female,72581,9,1584.03,17,15,6,Online,Chennai,18518.51,0,Loyal Regular Customers
+CUST1323,47,Male,73344,7,1804.8,25,18,3,Online,Mumbai,13700.21,0,Loyal Regular Customers
+CUST1324,61,Female,93321,7,1909.69,15,13,3,Online,Hyderabad,11256.93,0,Loyal Regular Customers
+CUST1325,64,Female,89200,11,2046.27,70,18,4,Mobile App,Bengaluru,20993.03,1,High-Value Customers
+CUST1326,29,Male,62091,7,1958.76,40,11,4,Online,Bengaluru,16507.02,0,Loyal Regular Customers
+CUST1327,29,Female,37627,8,1628.18,8,6,3,Mobile App,Pune,15189.64,0,Loyal Regular Customers
+CUST1328,19,Female,57980,4,1986.03,100,13,4,Store,Chennai,6431.18,0,Loyal Regular Customers
+CUST1329,24,Female,69779,8,2451.32,35,13,5,Store,Chennai,19119.0,1,High-Value Customers
+CUST1330,44,Male,60554,9,1737.93,18,8,5,Online,Hyderabad,16214.38,0,Loyal Regular Customers
+CUST1331,44,Male,52286,4,2006.44,33,14,5,Store,Mumbai,7292.46,0,Loyal Regular Customers
+CUST1332,35,Male,70563,9,1678.99,10,12,2,Online,Pune,21524.04,1,High-Value Customers
+CUST1333,32,Male,53913,6,1379.61,14,9,3,Store,Mumbai,8625.81,0,Loyal Regular Customers
+CUST1334,57,Male,51183,8,2139.87,63,15,4,Online,Chennai,16928.49,0,Loyal Regular Customers
+CUST1335,40,Female,71852,13,1439.1,14,17,1,Online,Chennai,22718.48,1,High-Value Customers
+CUST1336,56,Female,56156,11,2051.0,125,7,5,Store,Pune,21077.88,1,High-Value Customers
+CUST1337,64,Female,70370,13,1818.37,10,19,3,Online,Pune,27925.4,1,High-Value Customers
+CUST1338,33,Male,71010,11,1602.44,72,17,3,Online,Hyderabad,12335.41,0,Loyal Regular Customers
+CUST1339,27,Male,39933,6,1586.71,74,17,2,Mobile App,Pune,8742.86,0,Loyal Regular Customers
+CUST1340,63,Female,54413,9,1469.72,42,9,3,Online,Pune,15725.26,0,Loyal Regular Customers
+CUST1341,48,Male,96631,7,730.23,10,21,3,Online,Pune,6556.33,0,Loyal Regular Customers
+CUST1342,31,Female,39434,11,2048.88,17,11,4,Online,Bengaluru,19400.59,1,High-Value Customers
+CUST1343,47,Female,18434,13,1950.51,25,12,4,Online,Bengaluru,21295.31,1,High-Value Customers
+CUST1344,42,Male,24039,16,2352.29,50,6,2,Store,Hyderabad,41480.86,1,High-Value Customers
+CUST1345,61,Male,65640,9,1454.55,128,16,2,Online,Mumbai,11622.85,0,Loyal Regular Customers
+CUST1346,30,Male,65680,6,3032.0,38,8,5,Store,Bengaluru,17312.53,1,High-Value Customers
+CUST1347,65,Male,62413,9,1553.17,40,10,2,Store,Bengaluru,16183.68,0,Loyal Regular Customers
+CUST1348,62,Male,91712,8,1231.18,51,18,3,Online,Bengaluru,8884.8,0,Loyal Regular Customers
+CUST1349,26,Female,18000,6,1154.1,21,16,4,Mobile App,Bengaluru,4474.84,0,Loyal Regular Customers
+CUST1350,25,Female,73711,17,672.95,10,10,4,Mobile App,Pune,8760.92,1,High-Value Customers
+CUST1351,43,Female,99352,5,2796.21,77,13,5,Online,Mumbai,14006.1,0,Loyal Regular Customers
+CUST1352,20,Female,40189,8,2691.19,134,14,4,Online,Mumbai,14308.17,0,Loyal Regular Customers
+CUST1353,32,Female,56644,8,2190.48,57,10,6,Online,Hyderabad,16586.51,0,Loyal Regular Customers
+CUST1354,38,Male,48436,8,1217.54,13,16,5,Online,Mumbai,7299.62,0,Loyal Regular Customers
+CUST1355,64,Male,45324,6,2977.32,35,14,2,Store,Mumbai,23137.15,1,High-Value Customers
+CUST1356,65,Female,57822,8,1571.38,40,17,2,Store,Chennai,17470.3,0,Loyal Regular Customers
+CUST1357,25,Male,96405,6,1625.13,20,18,3,Online,Pune,7893.5,0,Loyal Regular Customers
+CUST1358,60,Male,105423,12,2734.22,38,7,3,Online,Chennai,34327.03,1,High-Value Customers
+CUST1359,22,Female,57609,8,2228.29,118,9,4,Online,Hyderabad,14744.64,0,Loyal Regular Customers
+CUST1360,53,Female,106911,10,3230.72,24,13,2,Mobile App,Mumbai,30508.44,1,High-Value Customers
+CUST1361,58,Female,65783,11,1961.67,27,9,2,Mobile App,Pune,28583.24,1,High-Value Customers
+CUST1362,60,Female,103581,6,1541.93,40,19,3,Online,Pune,8474.41,0,Loyal Regular Customers
+CUST1363,28,Male,62947,8,1402.33,25,15,4,Store,Chennai,10641.03,0,Loyal Regular Customers
+CUST1364,60,Female,67883,7,599.45,63,8,4,Store,Chennai,3484.25,0,Loyal Regular Customers
+CUST1365,23,Female,73040,8,1618.91,20,12,7,Store,Pune,15623.31,0,Loyal Regular Customers
+CUST1366,42,Female,134935,9,2543.99,36,11,2,Store,Mumbai,9447.13,0,Loyal Regular Customers
+CUST1367,40,Female,83728,11,2189.24,54,9,3,Mobile App,Chennai,22162.25,1,High-Value Customers
+CUST1368,33,Female,49440,7,1813.2,11,15,6,Online,Hyderabad,12587.57,0,Loyal Regular Customers
+CUST1369,19,Male,86318,5,1153.29,27,12,4,Online,Pune,5080.28,0,Loyal Regular Customers
+CUST1370,55,Male,57040,11,1947.47,24,13,4,Mobile App,Pune,24751.99,1,High-Value Customers
+CUST1371,34,Male,54225,6,2458.33,22,11,4,Online,Bengaluru,17941.36,0,Loyal Regular Customers
+CUST1372,49,Male,84989,12,2079.97,19,13,1,Online,Bengaluru,18615.72,1,High-Value Customers
+CUST1373,37,Male,65684,7,1908.38,9,16,5,Store,Bengaluru,18392.57,0,Loyal Regular Customers
+CUST1374,35,Male,71129,6,1281.98,43,15,4,Mobile App,Hyderabad,5721.32,0,Loyal Regular Customers
+CUST1375,60,Female,65308,10,2363.67,6,14,4,Store,Bengaluru,29119.32,1,High-Value Customers
+CUST1376,22,Female,72405,9,300.0,76,14,4,Mobile App,Pune,2772.82,0,Loyal Regular Customers
+CUST1377,53,Female,74349,9,2048.85,16,17,3,Store,Pune,16767.8,1,High-Value Customers
+CUST1378,53,Female,22387,6,3470.71,14,13,2,Online,Bengaluru,19289.8,1,High-Value Customers
+CUST1379,36,Female,79665,5,819.56,16,13,5,Store,Pune,4073.08,0,Loyal Regular Customers
+CUST1380,30,Female,43396,8,1643.11,86,10,3,Mobile App,Bengaluru,13638.01,0,Loyal Regular Customers
+CUST1381,18,Male,33269,4,1794.86,17,19,1,Mobile App,Mumbai,5990.33,0,Loyal Regular Customers
+CUST1382,62,Female,63715,10,1499.32,30,19,3,Online,Hyderabad,14361.85,0,Loyal Regular Customers
+CUST1383,63,Male,66848,9,2473.64,6,16,6,Online,Bengaluru,19174.45,1,High-Value Customers
+CUST1384,29,Male,49743,9,2107.09,66,16,3,Mobile App,Chennai,14816.26,0,Loyal Regular Customers
+CUST1385,19,Female,83283,8,1899.0,78,16,3,Online,Pune,12957.01,0,Loyal Regular Customers
+CUST1386,23,Female,35472,9,2318.23,3,13,4,Online,Pune,16545.3,1,High-Value Customers
+CUST1387,21,Male,56047,12,1810.89,15,15,5,Mobile App,Bengaluru,20087.23,1,High-Value Customers
+CUST1388,57,Male,52133,10,3866.91,9,12,4,Store,Pune,41679.31,1,High-Value Customers
+CUST1389,60,Male,63975,7,1898.38,135,17,5,Online,Hyderabad,13577.39,0,Loyal Regular Customers
+CUST1390,25,Male,71135,9,1926.93,11,14,2,Online,Chennai,23505.54,1,High-Value Customers
+CUST1391,53,Male,42826,7,688.2,50,13,6,Online,Bengaluru,2900.65,0,Loyal Regular Customers
+CUST1392,26,Female,80934,14,1446.76,57,15,5,Mobile App,Pune,21965.78,1,High-Value Customers
+CUST1393,35,Female,66386,6,2545.8,95,13,4,Store,Mumbai,15292.45,0,Loyal Regular Customers
+CUST1394,46,Female,23377,8,931.95,18,15,4,Online,Mumbai,8550.24,0,Loyal Regular Customers
+CUST1395,52,Female,21911,4,397.59,6,11,2,Online,Mumbai,1795.46,0,Loyal Regular Customers
+CUST1396,59,Female,64729,9,1821.01,5,9,3,Online,Pune,15902.36,0,Loyal Regular Customers
+CUST1397,20,Female,60139,8,2690.98,34,10,2,Online,Bengaluru,22196.87,1,High-Value Customers
+CUST1398,27,Male,62725,8,1827.55,44,16,1,Online,Hyderabad,12662.25,0,Loyal Regular Customers
+CUST1399,31,Male,64384,14,1581.52,20,9,7,Store,Bengaluru,24587.06,1,High-Value Customers
+CUST1400,32,Female,69962,8,591.98,37,7,2,Online,Chennai,3134.19,0,Loyal Regular Customers
+CUST1401,65,Male,85848,13,2093.97,30,5,4,Online,Chennai,31027.97,1,High-Value Customers
+CUST1402,55,Male,40556,8,2229.83,22,22,3,Store,Bengaluru,17764.23,0,Loyal Regular Customers
+CUST1403,33,Male,39217,10,641.87,41,17,3,Online,Mumbai,5855.97,0,Loyal Regular Customers
+CUST1404,64,Female,40947,7,2537.45,6,12,3,Online,Bengaluru,17018.7,1,High-Value Customers
+CUST1405,41,Male,71356,4,2297.7,9,11,3,Online,Mumbai,8927.43,0,Loyal Regular Customers
+CUST1406,42,Female,92389,7,2536.01,45,6,4,Online,Mumbai,21897.44,1,High-Value Customers
+CUST1407,38,Male,55511,9,2179.29,148,15,6,Online,Pune,31029.3,1,High-Value Customers
+CUST1408,24,Male,18000,10,2224.89,39,10,3,Store,Bengaluru,27134.24,1,High-Value Customers
+CUST1409,62,Male,27512,6,2138.47,22,19,6,Online,Pune,11525.17,0,Loyal Regular Customers
+CUST1410,18,Male,46673,5,2364.51,54,11,4,Mobile App,Chennai,13162.76,0,Loyal Regular Customers
+CUST1411,26,Female,52730,12,617.81,154,11,4,Store,Pune,8312.26,0,Loyal Regular Customers
+CUST1412,29,Male,56015,13,824.31,16,12,2,Online,Mumbai,8931.5,0,Loyal Regular Customers
+CUST1413,31,Male,65849,5,1321.59,16,18,1,Online,Mumbai,5108.32,0,Loyal Regular Customers
+CUST1414,24,Female,58142,11,1715.62,2,21,5,Online,Bengaluru,18656.86,1,High-Value Customers
+CUST1415,18,Female,88085,8,2052.29,19,11,4,Online,Mumbai,18805.34,1,High-Value Customers
+CUST1416,50,Male,50128,10,2011.04,6,12,3,Store,Chennai,14275.86,1,High-Value Customers
+CUST1417,64,Female,46029,7,2526.12,85,17,5,Online,Pune,15388.29,0,Loyal Regular Customers
+CUST1418,23,Female,75535,6,2546.52,110,16,3,Mobile App,Mumbai,16854.05,0,Loyal Regular Customers
+CUST1419,32,Male,31216,11,1232.95,7,12,5,Store,Bengaluru,13664.31,0,Loyal Regular Customers
+CUST1420,42,Female,73573,11,1955.07,149,12,3,Store,Pune,26988.22,1,High-Value Customers
+CUST1421,62,Female,67256,3,1248.91,28,18,6,Mobile App,Bengaluru,2794.89,0,Loyal Regular Customers
+CUST1422,51,Female,61756,11,1677.64,3,18,3,Store,Hyderabad,26267.29,1,High-Value Customers
+CUST1423,54,Male,99942,6,2009.16,98,15,2,Mobile App,Hyderabad,8717.68,0,Loyal Regular Customers
+CUST1424,45,Male,51311,9,300.0,19,6,4,Mobile App,Pune,1713.83,0,Loyal Regular Customers
+CUST1425,38,Male,110327,10,3367.31,66,18,2,Online,Bengaluru,33316.02,1,High-Value Customers
+CUST1426,27,Female,60041,7,2168.17,18,16,6,Online,Pune,12077.97,0,Loyal Regular Customers
+CUST1427,59,Female,36906,12,1412.79,11,12,4,Online,Hyderabad,16835.21,1,High-Value Customers
+CUST1428,56,Male,66538,7,3052.79,32,17,2,Online,Mumbai,21085.94,1,High-Value Customers
+CUST1429,19,Male,41323,7,1574.17,8,15,2,Store,Bengaluru,10630.88,0,Loyal Regular Customers
+CUST1430,52,Female,48461,9,1886.14,54,17,6,Online,Hyderabad,14401.23,0,Loyal Regular Customers
+CUST1431,22,Female,73735,6,1483.37,64,16,4,Store,Mumbai,9593.35,0,Loyal Regular Customers
+CUST1432,53,Female,77223,9,2873.79,11,8,5,Mobile App,Mumbai,24386.73,1,High-Value Customers
+CUST1433,57,Male,51312,11,1731.76,51,18,2,Online,Pune,22833.7,1,High-Value Customers
+CUST1434,24,Female,86723,11,1897.16,45,17,6,Store,Pune,20191.21,1,High-Value Customers
+CUST1435,38,Male,90465,11,2582.46,114,14,4,Online,Chennai,23474.56,1,High-Value Customers
+CUST1436,23,Female,96599,9,2180.34,6,21,4,Mobile App,Hyderabad,13661.81,0,Loyal Regular Customers
+CUST1437,45,Male,76647,12,1764.67,9,12,3,Store,Hyderabad,20520.01,1,High-Value Customers
+CUST1438,62,Male,94995,11,2521.75,18,19,1,Online,Pune,21402.03,1,High-Value Customers
+CUST1439,21,Male,23622,8,3450.01,10,15,6,Store,Mumbai,20893.45,1,High-Value Customers
+CUST1440,37,Female,58006,14,2006.32,20,10,7,Online,Pune,30755.27,1,High-Value Customers
+CUST1441,64,Female,45926,8,1875.89,5,12,3,Store,Chennai,10205.13,0,Loyal Regular Customers
+CUST1442,32,Male,67623,4,1910.91,55,10,6,Store,Chennai,9586.61,0,Loyal Regular Customers
+CUST1443,24,Female,52428,5,2651.78,44,16,2,Online,Pune,13640.08,0,Loyal Regular Customers
+CUST1444,41,Male,61345,11,1410.52,24,13,2,Store,Mumbai,15393.28,0,Loyal Regular Customers
+CUST1445,42,Male,106408,7,1619.09,102,20,1,Mobile App,Hyderabad,9222.65,0,Loyal Regular Customers
+CUST1446,49,Male,61266,10,800.66,180,12,3,Mobile App,Chennai,9108.2,0,Loyal Regular Customers
+CUST1447,33,Female,74103,9,1030.49,21,12,1,Store,Hyderabad,9269.56,0,Loyal Regular Customers
+CUST1448,63,Male,59890,8,1463.43,99,12,3,Store,Mumbai,10261.6,0,Loyal Regular Customers
+CUST1449,43,Female,66666,12,1763.64,22,13,2,Online,Bengaluru,21924.9,1,High-Value Customers
+CUST1450,31,Male,65132,3,2949.9,61,15,4,Mobile App,Pune,6169.11,0,Loyal Regular Customers
+CUST1451,64,Male,74863,9,2148.4,65,17,5,Mobile App,Pune,13643.99,0,Loyal Regular Customers
+CUST1452,62,Male,90637,9,1207.15,17,17,4,Online,Bengaluru,8673.73,0,Loyal Regular Customers
+CUST1453,41,Female,101243,9,1326.81,40,15,2,Online,Mumbai,12692.58,0,Loyal Regular Customers
+CUST1454,19,Male,71812,8,2693.59,19,12,5,Online,Bengaluru,21536.08,1,High-Value Customers
+CUST1455,46,Female,77970,10,2532.3,53,12,2,Online,Hyderabad,30104.39,1,High-Value Customers
+CUST1456,44,Female,39681,8,1818.3,20,10,5,Online,Hyderabad,12137.54,0,Loyal Regular Customers
+CUST1457,25,Male,63067,16,1512.36,8,14,4,Online,Chennai,26700.78,1,High-Value Customers
+CUST1458,48,Female,85686,6,2531.21,65,17,3,Store,Pune,14875.97,0,Loyal Regular Customers
+CUST1459,58,Female,84051,11,1154.34,53,14,1,Online,Chennai,10542.32,0,Loyal Regular Customers
+CUST1460,23,Male,69655,8,2054.82,62,13,5,Online,Hyderabad,17578.66,0,Loyal Regular Customers
+CUST1461,52,Male,84501,10,3277.23,48,14,6,Store,Bengaluru,32382.9,1,High-Value Customers
+CUST1462,24,Male,75797,8,1933.48,63,13,4,Online,Pune,13716.24,0,Loyal Regular Customers
+CUST1463,53,Female,91407,10,1295.85,11,13,6,Online,Hyderabad,13056.46,0,Loyal Regular Customers
+CUST1464,38,Male,71366,4,2066.74,55,15,6,Mobile App,Chennai,8074.21,0,Loyal Regular Customers
+CUST1465,18,Female,57175,10,1494.49,11,16,2,Mobile App,Bengaluru,14531.47,0,Loyal Regular Customers
+CUST1466,64,Female,72389,7,893.82,37,10,4,Store,Hyderabad,5792.07,0,Loyal Regular Customers
+CUST1467,25,Female,18000,4,2255.67,39,12,3,Online,Chennai,6903.34,0,Loyal Regular Customers
+CUST1468,46,Male,73423,5,2526.59,17,17,3,Online,Pune,12802.96,0,Loyal Regular Customers
+CUST1469,26,Female,18000,8,1597.91,39,12,2,Mobile App,Hyderabad,10936.24,0,Loyal Regular Customers
+CUST1470,62,Male,27084,10,1554.8,55,12,7,Store,Chennai,12692.47,0,Loyal Regular Customers
+CUST1471,53,Male,74939,4,1174.98,29,10,4,Mobile App,Pune,4496.29,0,Loyal Regular Customers
+CUST1472,56,Male,75506,8,1702.54,7,9,3,Store,Hyderabad,15419.9,0,Loyal Regular Customers
+CUST1473,38,Male,39427,5,1434.46,13,12,3,Online,Hyderabad,7411.93,0,Loyal Regular Customers
+CUST1474,40,Male,49334,5,1142.83,57,10,3,Online,Bengaluru,5167.85,0,Loyal Regular Customers
+CUST1475,48,Male,95152,3,3029.91,25,12,4,Mobile App,Pune,8154.92,0,Loyal Regular Customers
+CUST1476,55,Male,54351,10,2103.22,20,12,6,Mobile App,Bengaluru,23439.26,1,High-Value Customers
+CUST1477,58,Male,114344,8,2172.06,89,12,3,Online,Hyderabad,9880.05,0,Loyal Regular Customers
+CUST1478,18,Female,64958,6,2374.21,22,12,3,Store,Bengaluru,16289.82,0,Loyal Regular Customers
+CUST1479,49,Male,73977,11,2301.17,129,14,4,Online,Mumbai,16774.26,1,High-Value Customers
+CUST1480,23,Female,100571,14,1531.48,45,14,3,Mobile App,Hyderabad,15978.19,1,High-Value Customers
+CUST1481,31,Female,67883,9,1977.16,77,17,3,Online,Mumbai,16147.25,0,Loyal Regular Customers
+CUST1482,57,Female,42948,13,1625.13,23,19,2,Store,Mumbai,29379.25,1,High-Value Customers
+CUST1483,30,Female,62586,6,2085.0,66,14,2,Online,Bengaluru,16287.21,0,Loyal Regular Customers
+CUST1484,56,Female,64217,9,2022.1,14,20,3,Store,Hyderabad,20513.21,1,High-Value Customers
+CUST1485,40,Female,34976,7,1551.27,16,11,6,Store,Bengaluru,11555.79,0,Loyal Regular Customers
+CUST1486,29,Female,59372,6,935.96,50,15,3,Online,Bengaluru,3733.3,0,Loyal Regular Customers
+CUST1487,34,Female,48672,12,1895.05,7,7,2,Mobile App,Chennai,23382.26,1,High-Value Customers
+CUST1488,43,Male,85336,7,1667.22,19,12,4,Mobile App,Hyderabad,10516.79,0,Loyal Regular Customers
+CUST1489,54,Male,65761,16,571.26,44,18,6,Mobile App,Bengaluru,7796.55,0,Loyal Regular Customers
+CUST1490,47,Female,58778,11,2129.98,106,15,3,Online,Chennai,24082.64,1,High-Value Customers
+CUST1491,62,Male,62664,11,2427.47,12,11,0,Store,Chennai,24437.83,1,High-Value Customers
+CUST1492,59,Female,69909,8,3443.43,69,10,4,Store,Pune,31857.9,1,High-Value Customers
+CUST1493,54,Male,78570,8,1545.72,29,17,3,Store,Mumbai,8056.64,0,Loyal Regular Customers
+CUST1494,46,Male,43006,8,1449.84,163,10,4,Store,Hyderabad,11755.33,0,Loyal Regular Customers
+CUST1495,31,Female,42085,9,1078.88,82,13,3,Store,Chennai,8173.45,0,Loyal Regular Customers
+CUST1496,37,Female,89303,7,1935.62,33,12,0,Online,Bengaluru,12550.29,0,Loyal Regular Customers
+CUST1497,23,Female,55929,14,1931.51,59,16,3,Online,Hyderabad,28523.88,1,High-Value Customers
+CUST1498,35,Male,33829,12,1272.66,3,18,4,Online,Chennai,12200.5,0,Loyal Regular Customers
+CUST1499,62,Female,74764,6,1686.3,74,10,3,Online,Bengaluru,10416.9,0,Loyal Regular Customers
+CUST1500,38,Female,75194,6,513.87,15,16,2,Online,Pune,2965.38,0,Loyal Regular Customers
